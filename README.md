@@ -1,4 +1,4 @@
-# minitalk
+# Minitalk
 ## About the project
 This is a *42 school* project, the goal of this project is to develop a server-client comunication program using unix signals. This project come with a bonus part, in the bonus part we have to add a new feature in the server that notify the client when the message has been successfully received and the program must accept unicode character sending.
 
